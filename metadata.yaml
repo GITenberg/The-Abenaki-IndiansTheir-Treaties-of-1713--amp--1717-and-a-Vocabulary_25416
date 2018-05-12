@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31321
     wikipedia: http://en.wikipedia.org/wiki/Frederic_Kidder
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25416#The-Abenaki-IndiansTheir-Treaties-of-1713--amp--1717-and-a-Vocabulary
 gutenberg_issued: '2008-05-10'
 gutenberg_type: Text
 identifiers:

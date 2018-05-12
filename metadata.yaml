@@ -1,0 +1,31 @@
+_repo: The-Abenaki-IndiansTheir-Treaties-of-1713--amp--1717-and-a-Vocabulary_25416
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kidder, Frederic
+    birthdate: 1804
+    deathdate: 1885
+    gutenberg_agent_id: '31321'
+    url: http://www.gutenberg.org/2009/agents/31321
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_Kidder
+description: ''
+gutenberg_issued: '2008-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25416'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Abenaki language'
+- !lcsh 'Abenaki Indians'
+- !lcsh 'Abenaki Indians -- Treaties'
+title: 'The Abenaki Indians
+
+  Their Treaties of 1713 & 1717, and a Vocabulary'
+url: http://www.gutenberg.org/ebooks/25416
